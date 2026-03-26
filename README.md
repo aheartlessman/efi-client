@@ -21,9 +21,9 @@ Windows Kernel --> EFI Runtime Services --> EfiMemoryDriver
 
 | Репозиторий | Описание |
 |---|---|
-| **efi-memory-driver** | UEFI драйвер (должен быть установлен) |
-| **efi-loader** | UEFI загрузчик |
-| **efi-client** | Windows клиент (этот репо) |
+| [**efi-memory-driver**](https://github.com/aheartlessman/efi-memory-driver) | UEFI драйвер (должен быть установлен) |
+| [**efi-loader**](https://github.com/aheartlessman/efi-loader) | UEFI загрузчик |
+| [**efi-client**](https://github.com/aheartlessman/efi-client) | Windows клиент (этот репо) |
 
 ## Требования
 
