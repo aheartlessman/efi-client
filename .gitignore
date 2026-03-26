@@ -1,0 +1,21 @@
+# Build artifacts
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.iobj
+*.ipdb
+
+# VS user files
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+
+# VS directories
+.vs/
+efi_client/x64/
